@@ -1,9 +1,9 @@
-# AirPointer
+# Handigo
 
 [![Built with Python](https://img.shields.io/badge/built%20with-python-3776AB.svg?logo=python&logoColor=white)](https://python.org)  
 [![Gesture Controlled](https://img.shields.io/badge/Control-Hand%20Gesture-yellowgreen)](#)
 
-**AirPointer** is a gesture-based pointer system that allows users to control mouse movements and perform actions using hand gestures detected via a webcam. It is built using **Python**, **OpenCV**, and **MediaPipe**, offering an intuitive and touch-free interaction experience.
+**Handigo** is a gesture-based pointer system that allows users to control mouse movements and perform actions using hand gestures detected via a webcam. It is built using **Python**, **OpenCV**, and **MediaPipe**, offering an intuitive and touch-free interaction experience.
 
 ---
 
